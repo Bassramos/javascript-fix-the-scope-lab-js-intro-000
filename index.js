@@ -17,7 +17,7 @@ function yourAnimal() {
 var n = 98
 function add2(n) {
   n += 2
-  return n + two
+  return n + 2
 
   // Feel free to move things around!
   const two = 2
