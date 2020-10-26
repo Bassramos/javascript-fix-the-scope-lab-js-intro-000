@@ -14,7 +14,7 @@ function yourAnimal() {
   return (animal)
 }
 
-var n = 98
+var n = 96
 function add2(n) {
   n += 2
   return n + 2
