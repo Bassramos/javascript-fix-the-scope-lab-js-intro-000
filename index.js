@@ -14,8 +14,8 @@ function yourAnimal() {
   return (animal)
 }
 
-function add(2 + n) {
-  n = 239
+function add2(2 + n) {
+
   return n + 2
 
   // Feel free to move things around!
